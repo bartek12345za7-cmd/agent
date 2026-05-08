@@ -39,7 +39,5 @@ The agent is equipped with a specialized toolbox to interact with your environme
 ```bash
 export OPENROUTER_API_KEY="your-openrouter-api-key"
 python3 agent.py
-
-
-
-and it's all
+```
+and it's all!
