@@ -36,4 +36,4 @@ The agent is equipped with a specialized toolbox to interact with your environme
    pip install requests prompt_toolkit rich
 3. in the terminal export OPENROUTER_API_KEY="your-openrouter-api-key"
 
-now write in the terminal python3 agent.py and it's all
+now write in the terminal 'python3 agent.py' and it's all
