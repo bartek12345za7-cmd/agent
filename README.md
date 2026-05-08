@@ -37,7 +37,7 @@ The agent is equipped with a specialized toolbox to interact with your environme
 3. In the terminal, export your API key and run the script:
 
 ```bash
-export OPENROUTER_API_KEY="your-openrouter-api-key"
+export OPENROUTER_API_KEY="your-openrouter-api-key" (only model is ddeepseek/deepseek-chat)
 python3 agent.py
 ```
 and it's all!
