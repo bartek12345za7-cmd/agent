@@ -34,6 +34,8 @@ The agent is equipped with a specialized toolbox to interact with your environme
    The script requires a few specific Python libraries to run. Install them using `pip`:
    ```bash
    pip install requests prompt_toolkit rich
-3. in the terminal export OPENROUTER_API_KEY="your-openrouter-api-key"
+3. In the terminal, export your API key and run the script:
 
-now write in the terminal ```bash 'python3 agent.py' and it's all
+```bash
+export OPENROUTER_API_KEY="your-openrouter-api-key"
+python3 agent.py
