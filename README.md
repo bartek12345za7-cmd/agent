@@ -40,4 +40,4 @@ The agent is equipped with a specialized toolbox to interact with your environme
 export OPENROUTER_API_KEY="your-openrouter-api-key" (only model deepseek/deepseek-v4-flash)
 python3 agent.py
 ```
-and it's all!
+and that's it!
